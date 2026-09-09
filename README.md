@@ -1,78 +1,113 @@
-# Hi 👋, I'm Sriram R
+<div align="center">
 
-### Full Stack Developer | CSE Student | AI/ML Enthusiast 🚀
+# 👋 Hi, I'm Sriram R
 
-I'm a Computer Science Engineering student passionate about building
-modern web applications and AI-powered solutions.
+### 💻 Full Stack Developer | 🎓 CSE Student | 🤖 AI/ML Enthusiast
 
-- 💻 Interested in Full Stack Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌐 Building real-world web applications
-- 🚀 Always learning and improving my skills
+<p>
+  Passionate about building scalable web applications,<br>
+  AI-powered solutions, and real-world software projects.
+</p>
+
+<p>
+  🚀 Always learning • 🛠️ Always building • 💡 Always improving
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Languages
-- JavaScript
-- Python
-- HTML
-- CSS
-- SQL
+### 👨‍💻 Languages & Programming
 
-### Frontend
-- React.js
-- Bootstrap
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Backend
-- Node.js
-- FastAPI
-- Flask
-- Django
+### 🎨 Frontend
 
-### Database
-- MySQL
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### AI / Data
-- Machine Learning
-- Computer Vision
-- OpenCV
-- YOLO
-- Pandas
-- Scikit-learn
+### ⚙️ Backend
 
-### Tools
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🤖 AI / Machine Learning / Data
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Interview Monitoring System
-AI-powered interview monitoring system using computer vision to detect suspicious events and provide real-time monitoring insights.
 
-**Tech:** React.js • FastAPI • Python • OpenCV • YOLO
+An AI-assisted monitoring system that uses computer vision to detect and analyse suspicious events during interviews.
 
-### 🎓 CutoffIQ
-Web application for analysing engineering college cutoffs and predicting admission opportunities using previous cutoff data.
+**Tech:** React • FastAPI • Python • OpenCV • YOLO
+
+---
+
+### 🎓 CutoffIQ — Student Cutoff Analysis System
+
+A web application for analysing engineering college cutoffs and helping students understand their admission opportunities using previous cutoff data.
 
 **Tech:** Django • Python • MySQL
 
+---
+
 ### 🧾 Invoice OCR to Excel
-OCR-based invoice processing system that extracts information from invoice images and stores the data in Excel.
+
+An OCR-powered application that extracts information from invoice images and stores structured invoice data in Excel.
 
 **Tech:** Python • Flask • OpenCV • OCR
 
+---
+
 ### 📄 Resume Builder
-Web-based resume builder for creating professional resumes through a simple interface.
+
+A web-based application that allows users to create professional resumes through a simple and responsive interface.
 
 **Tech:** HTML • CSS • JavaScript
 
+---
+
 ### 🎨 SnapIt Design Project
-Creative web design project focused on building an interactive and visually appealing web experience.
+
+A creative web design project focused on building an interactive and visually appealing user experience.
 
 **Tech:** HTML • CSS
 
@@ -80,42 +115,81 @@ Creative web design project focused on building an interactive and visually appe
 
 ## 💼 Experience
 
-- **Web Development Intern — Prodigy Infotech**
-- **Python Intern**
-- **Web Development / Technical Training**
+**Web Development Intern — Prodigy Infotech**
+
+Worked on responsive web development and practical frontend projects.
+
+**Python Internship**
+
+Worked on Python-based programming tasks and development activities.
 
 ---
 
 ## 🎯 Currently Working On
 
-- Building AI-powered applications
-- Improving my Full Stack Development skills
-- Exploring Computer Vision and Machine Learning
-- Developing industry-level software projects
+- 🤖 AI-powered applications
+- 💻 Full Stack Development
+- 👁️ Computer Vision projects
+- 🧠 Machine Learning
+- 🚀 Building industry-level software projects
 
 ---
 
-## 📚 Areas of Interest
+## 📊 GitHub Stats
 
-- Full Stack Development
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sriram1805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram1805&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sriram1805&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 What I'm Learning
+
+- Advanced Full Stack Development
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Software Development
-- Problem Solving
+- Backend Development
+- Software Engineering Practices
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📧 **Email:** work.with.sriram.r@gmail.com
+<div align="center">
 
-💼 **LinkedIn:** [Sriram R](https://www.linkedin.com/in/sriram-r-dev)
+<a href="mailto:work.with.sriram.r@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🌐 **Portfolio:** [My Portfolio](https://sriram1805.github.io/Resume-builder-Design-Project-2/)
+<a href="https://www.linkedin.com/in/sriram-r-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-🐙 **GitHub:** [Sriram1805](https://github.com/Sriram1805)
+<a href="https://github.com/Sriram1805">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
