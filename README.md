@@ -5,12 +5,12 @@
 ### 💻 Full Stack Developer | 🎓 CSE Student | 🤖 AI/ML Enthusiast
 
 <p>
-  Passionate about building scalable web applications,<br>
-  AI-powered solutions, and real-world software projects.
+  Passionate about building web applications and exploring
+  Artificial Intelligence and Machine Learning.
 </p>
 
 <p>
-  🚀 Always learning • 🛠️ Always building • 💡 Always improving
+  🚀 Learning • 🛠️ Building • 💡 Improving
 </p>
 
 </div>
@@ -19,13 +19,14 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Languages & Programming
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -45,7 +46,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### 🤖 AI / Machine Learning / Data
+### 🤖 AI / Data
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -61,7 +62,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -75,94 +76,74 @@
 
 ### 🤖 AI Interview Monitoring System
 
-An AI-assisted monitoring system that uses computer vision to detect and analyse suspicious events during interviews.
+An AI-assisted monitoring system that uses computer vision to monitor interviews and detect suspicious events.
 
-**Tech:** React • FastAPI • Python • OpenCV • YOLO
+**Technologies:** React • FastAPI • Python • OpenCV • YOLO
 
 ---
 
 ### 🎓 CutoffIQ — Student Cutoff Analysis System
 
-A web application for analysing engineering college cutoffs and helping students understand their admission opportunities using previous cutoff data.
+A web application designed to help students analyse engineering college cutoffs and understand their admission opportunities.
 
-**Tech:** Django • Python • MySQL
+**Technologies:** Django • Python • MySQL
 
 ---
 
 ### 🧾 Invoice OCR to Excel
 
-An OCR-powered application that extracts information from invoice images and stores structured invoice data in Excel.
+An OCR-based application that extracts information from invoice images and stores the extracted data in Excel.
 
-**Tech:** Python • Flask • OpenCV • OCR
+**Technologies:** Python • Flask • OpenCV • OCR
 
 ---
 
 ### 📄 Resume Builder
 
-A web-based application that allows users to create professional resumes through a simple and responsive interface.
+A web-based resume builder that allows users to create professional resumes using a simple interface.
 
-**Tech:** HTML • CSS • JavaScript
+**Technologies:** HTML • CSS • JavaScript
 
 ---
 
 ### 🎨 SnapIt Design Project
 
-A creative web design project focused on building an interactive and visually appealing user experience.
+A web design project created to build an interactive and visually appealing web experience.
 
-**Tech:** HTML • CSS
+**Technologies:** HTML • CSS
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
-**Web Development Intern — Prodigy Infotech**
+### 🌐 Web Development Intern — Prodigy Infotech
 
-Worked on responsive web development and practical frontend projects.
+Worked on responsive web development and practical frontend development tasks.
 
-**Python Internship**
+### 🐍 Python Internship
 
-Worked on Python-based programming tasks and development activities.
+Worked on Python programming tasks and development activities.
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🤖 AI-powered applications
-- 💻 Full Stack Development
-- 👁️ Computer Vision projects
-- 🧠 Machine Learning
-- 🚀 Building industry-level software projects
+- 💻 Improving my Full Stack Development skills
+- 🤖 Building AI-powered applications
+- 👁️ Exploring Computer Vision
+- 🧠 Learning more about Machine Learning
+- 🚀 Building real-world software projects
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Areas of Interest
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sriram1805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram1805&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sriram1805&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 What I'm Learning
-
-- Advanced Full Stack Development
+- Full Stack Development
+- Web Development
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Backend Development
-- Software Engineering Practices
+- Software Development
 
 ---
 
@@ -189,7 +170,5 @@ Worked on Python-based programming tasks and development activities.
 <div align="center">
 
 ### ⭐ Thanks for visiting my GitHub profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
